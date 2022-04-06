@@ -2,14 +2,14 @@ import os, sys
 
 print ("\033[1;32mSilahkan Masukkan Username & Password Anda")
 
-print ("\033[1;32matau silahkan Hubungi  089655478810 ")
+print ("\033[1;32udah ini user nya: Zxx pw nya dev ")
 
 
-print ("\033[1;32mScript Ini sekarang tidak gratis ")
+print ("\033[1;32mScript Ini sekarang gratis saya yang recode hehe kalo mau di pake boleh aja gpp req fitur? chat 085936697907")
 
-username = 'Mantan'      
+username = 'Zxx'      
 
-password = 'Sayang'
+password = 'dev'
 
 
 
