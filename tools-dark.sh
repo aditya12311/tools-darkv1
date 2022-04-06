@@ -16,7 +16,7 @@ echo $ungu "
 echo $cyan "
           _/﹋\_
           (ಠ益ಠ)
-          <,︻╦╤─ - - - MATI LOH AJG
+          <,︻╦╤─ - - - Zxx dev
           _/﹋\_"
 echo $ungu "
 █████████
@@ -70,6 +70,9 @@ echo $cyan "
 ┠
 ┠──[15] MR.Rendy-Dark
 ┠
+┠──[16] Spam Call
+┠
+┠──[17]
 ┗────[99] exit ✘"
 echo "\033[35;1m"
 read -p "root@Pilih Nomor > " bro
@@ -218,6 +221,15 @@ git clone https://github.com/cyber2611/Mr.RENDY
 cd Mr.RENDY
 ls
 python2 Mr.rendy.py
+if
+
+if if [ $bro = 16 ] || [ $bro = 16 ]
+then
+clear
+git clone https://github.com/aditya12311/SpamCall
+cd SpamCall
+ls
+python spam.py
 if
 
 if [ $bro = 99 ] || [ $bro = 99 ]
